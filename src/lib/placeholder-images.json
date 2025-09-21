@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "test-case-empty-state",
+      "description": "An illustration for the empty state of the test case viewer, suggesting data analysis or a testing process.",
+      "imageUrl": "https://picsum.photos/seed/rxtestgen/300/200",
+      "imageHint": "data analysis"
+    }
+  ]
 }
